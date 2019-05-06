@@ -1,4 +1,0 @@
-DeadmansVolley is the Unity project file.
-
-GameBuilds has builds of the game. Each build have a version number and a build date.
-Please try to stick to the newest one.
